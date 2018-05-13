@@ -1,0 +1,1 @@
+declare function assignIn<T, U>(t: Assign<T, U>, u: U): Assign<T, U>;
